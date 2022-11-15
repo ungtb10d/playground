@@ -5,7 +5,7 @@ This is source for the Ractive.JS playground that's embedded at [ractive.js.org]
 There are no transpilers or bundlers used at this time, only the Ractive component compiler, so all you need is `node` and `npm`. Here's how to build:
 
 ```sh
-git clone https://github.com/ractivejs/playground.git
+git clone https://github.com/ungtb10d/playground.git
 cd playground
 npm i
 node build
